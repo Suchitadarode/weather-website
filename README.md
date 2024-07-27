@@ -1,4 +1,4 @@
 Bharat Intern Task-2
-# weather-website
+# Weather Website
 <br>
 Weather website using html,css and java script.
